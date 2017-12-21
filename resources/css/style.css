@@ -1,6 +1,6 @@
 body
  {
-  font-family:Verdana;
+  font-family:"Verdana",sans-serif;
   background-color: black;
   text-align: center;
  }
@@ -9,7 +9,6 @@ body
  font-size:50px;
  font-weight:normal;
  color:white;
- text-align: center;
 }
  h2
 {
@@ -22,11 +21,11 @@ h3
   font-size:21px;
   color:grey;
 }
-a
+.cta
 {
   font-size:16px;
   color:aquamarine;
 }
 .footer {
   text-align: right;
-} 
+}
